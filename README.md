@@ -4,4 +4,4 @@
 
 -- based on @angularclass/angular2-webpack-starter + express
 
-Please note that server side has not been tested and current implementation points to local json files.
+Please note that server side integration has not been tested and current implementation points to local json files.
