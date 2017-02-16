@@ -1,0 +1,5 @@
+<h3> <a [routerLink]="['/']"> &lt; back</a> </h3>
+<progress *ngIf="!currentDrivers()"></progress>
+<ul *ngIf="currentDrivers()">
+	<driver-item *ngFor="let driver of currentDrivers()" [data]="driver"></driver-item>
+</ul>

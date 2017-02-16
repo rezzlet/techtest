@@ -1,0 +1,15 @@
+:host {
+    display:flex;
+    flex:1;
+}
+
+div {
+    padding: 5px;
+    background-color:#eceded;
+}
+
+ul {
+    display:flex;
+    list-style: none;
+    margin:0px auto;
+}
