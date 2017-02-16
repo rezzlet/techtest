@@ -1,5 +1,6 @@
-npm start for development, live reload enviroment
-npm build for deploying enviroment
+-- npm start for development, live reload enviroment
+
+-- npm build for deploying enviroment
 
 -- based on @angularclass/angular2-webpack-starter + express
 
